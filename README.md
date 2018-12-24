@@ -6,6 +6,15 @@ Pythonistでは無いのでご容赦ください(文句は受け付けており�
 ## スライドによる解説
 https://www.slideshare.net/secret/ggLtzBEUWwcoj2
 
+## 必要なライブラリ
+- PIL
+- numpy
+
+```
+pip install pillow
+pip install numpy
+```
+
 ## 使い方
 普通に >python main.py で動きます  
 とりあえず実行場所に/png/** のディレクトリを作って画像を1.5Mほど吐きます  
